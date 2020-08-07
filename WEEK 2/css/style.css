@@ -1,0 +1,18 @@
+.container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: #000000;
+    border: 1px solid #000000;
+    width: 340px;
+    padding: 10px;
+    text-align: center;
+    -webkit-border-radious: 10px;
+    -moz-border-radious: 10px;
+    border-radius: 10px;
+}
+button{
+    width: 3cm;
+        height: 1cm;
+        border-radius: 4px;
+
+}
